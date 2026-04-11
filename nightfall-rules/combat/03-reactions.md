@@ -23,8 +23,9 @@ If you have already spent your Action for a given Round and have not yet
 Round, you may Exert your Mind to make a Desperate Defense. You may then Dodge
 or Defend as normal, but your next Action is performed at a -2 dice penalty.
 
-You cannot Clash as a Desperate Defense or use Desperate Defense against a bad
-Clash outcome. You cannot react to the same Action more than once.
+You cannot Clash as a Desperate Defense, use Desperate Defense against a bad
+Clash outcome, or use Desperate Defense to protect someone else. You cannot
+react to the same Action more than once.
 
 ## Dodging
 

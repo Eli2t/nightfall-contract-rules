@@ -69,10 +69,7 @@ A Newbie game might see you track a VIP from his home, to a gangland party on
 the other side of town that rival oops (and police) are about to close in on;
 with you expected to have him home at midnight, alive.
 
-- Capped to 4 Players from here on out.
-  - 3 is recommended, however, especially for newer GMs.
-
-  - Seasoned Gifts available from the get-go, along with a single free Gift
+- Seasoned Gifts available from the get-go, along with a single free Gift
     Point.
 
   - Harbingers generally must transport Newbies to, and from the Contract (upon
@@ -103,14 +100,6 @@ opposition; all while you, yourself, are being followed / tracked by both Feds &
 the criminal opposition.
 
 - Newbie Novices generally must transport themselves to and from Contracts.
-  Harbingers generally must provide an option for those that literally are
-  incapable of transporting themselves--though it needs not be pretty, or fair.
-  - The standard “price” is half a Contractor’s Mind & Source (rounded up).
-    - Failure to show up at the given deadline, or at all, typically results in
-      a Declined Harbinger Invite–and sometimes, Loose Ends.
-
-    - Information about the Objective typically should be reserved for when / if
-      the Contractor is able to arrive at Briefing by the Deadline–if at all.
 
   - Mandatory combat obstacles should generally be approachable by a SWAT Team,
     or similar.
@@ -129,8 +118,7 @@ where spies, assassins, and rivals are waiting to converge on him; all while
 you, yourself, are being followed / tracked by intelligence Agents (assassins) &
 must find a way into / to stay at the party.
 
-- Capped to 3 Players from here on out.
-  - Mandatory combat obstacles should generally be approachable by a Squad of
+- Mandatory combat obstacles should generally be approachable by a Squad of
     Soldiers, or similar.
 
 - #### Low Seasoned: 9-12 Wins.
@@ -168,8 +156,7 @@ the VIP in question tucked away into some super facility in a foreign
 totalitarian / war-torn nation: guarded not just by the military, but by
 superagents and assets–some of which are preparing their own plays.
 
-- Capped to 2 Players from here on out.
-  - Mandatory combat obstacles should generally be approachable by a super
+- Mandatory combat obstacles should generally be approachable by a super
     special ops squad, or similar.
     - In other words; games no longer require mundane solutions, or that mundane
       people are able to solve / approach their obstacles at all.
@@ -210,8 +197,7 @@ Or a space-faring anti-alien PC should have to combat an expeditionary force of
 extraterrestrials who have assimilated themselves into high society and places
 of power within the world.
 
-- Strictly solo, one Player from here on out.
-  - Generally, should be specifically oriented to test the Contractor themself.
+- Generally, should be specifically oriented to test the Contractor themself.
 
   - Winning this, and each game past it, unlocks one Veteran Gift Slot per win.
 

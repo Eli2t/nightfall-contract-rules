@@ -344,7 +344,7 @@ Range works as per Firearms.
 ## Non-Lethal Weapons
 
 ### Handheld Stun Gun
-- **Attack:** Dexterity + Brawl, Difficulty 6
+- **Attack:** Dexterity + Melee, Difficulty 6
 - **Maximum Range:** 5 feet
 - **System:** If the attack deals any damage, the target must roll Body @ Difficulty 9. If they succeed, they suffer a temporary dice penalty of 4 - Outcome on their next Action. If they fail, they are stunned & lose their next Action. Otherwise, if they botch, they are stunned and their “Tazer” grows by 1 Severity.
 
@@ -354,7 +354,7 @@ Range works as per Firearms.
 - **System:** If the attack deals any damage, the target must roll Body @ Difficulty 9. If they succeed, they suffer a temporary dice penalty of 4 - Outcome on their next Action. If they fail, they are stunned & lose their next Action. Otherwise, if they botch, they are stunned and their “Tazer” grows by 1 Severity. The target must re-roll Body for the next 3 Rounds. These Body rolls can end early if the darts are removed or if they roll an Outcome of at least 4.
 
 ### Mace, Pepper-spray
-- **Attack:** Dexterity + Brawl, Firearms, or Athletics, Difficulty 7
+- **Attack:** Dexterity + Melee, Firearms, or Athletics, Difficulty 7
 - **Maximum Range:** 10 feet
 - **System:** If the attack hits, the target is blinded for 10 Rounds (30 seconds). Blinded targets automatically fail any roll requiring sight and suffer up to a -3 dice penalty to any roll that would benefit from sight. A sight penalty of -2 dice lingers after the initial 30 seconds until the target can properly wash their eyes. This weapon deals no Damage.
 
@@ -473,4 +473,4 @@ Some shields are mobile (wheeled or mechanized), allowing them to move up to
 Non-transparent shields may increase the Difficulty of Perception rolls.
 
 Bucklers and armored wristbands do not provide extra Armor or take up a hand,
-but they allow you to use Brawl to Defend against Melee Attacks.
+but they allow you to use Melee to Defend against Melee Attacks.

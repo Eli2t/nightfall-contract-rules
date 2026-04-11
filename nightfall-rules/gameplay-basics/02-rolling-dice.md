@@ -226,20 +226,6 @@ rolled as a Difficulty 9 roll with 3 dice.
 Combat secondaries (e.g. "pistols", "knives", "jiu-jitsu", "dodging", etc.) no
 longer provide a difficulty reduction in combat.
 
-## Rolling 2 Things at Once.
-
-When a character needs to roll two abilities, two attributes, or both, at once:
-the GM, instead of wasting time debating / arguing, may allot to have the
-character roll the lower of the two.
-
-For example; if a character just picked up a sci-fi pistol and the utilization
-of this pistol is as much Technology as it is Firearms–the character might roll
-the lower of his Int or Dex + Technology or Firearms, to use it.
-
-Or if a Contractor is trying to figure out if they can land a small Cessna (and
-lacks a Secondary, any major prior knowledge, or ATC), they might roll the lower
-of their Dex or Int + Drive @ Difficulty 9.
-
 ## Dice Pool Modifiers
 
 Some [Gifts](../gifts/01-overview.md),
@@ -250,8 +236,8 @@ do not stack. Instead, the highest value is used.
 
 For example, let's say you have a Power that lets you mark a target to receive
 +2 dice on rolls targeting them, and you also have a different bonus that gives
-you +3 dice to Brawl attacks. When you roll to Attack that target with your
-hands and teeth, your dice pool would be Brawn + Brawl + 3 dice (the higher of
+you +3 dice to Melee attacks. When you roll to Attack that target with your
+hands and teeth, your dice pool would be Brawn + Melee + 3 dice (the higher of
 the two bonuses).
 
 All dice pools are also subject to penalties from

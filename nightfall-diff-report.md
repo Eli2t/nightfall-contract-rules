@@ -15,10 +15,6 @@ Changes already documented in the Nightfall changelog are marked with
 - **Official:** Five status tiers: Newbie (0-3), Novice (4-9), Seasoned (10-16), Professional (17-24), Veteran (25+). Contractors must be "within a 5-victory range."
 - **Nightfall:** Ten sub-brackets: Newbie (0-3), Newbie-Novice (3-6), High Novice (6-9), Low Seasoned (9-12), Seasoned (12-15), High Seasoned (15-18), Vet Gate (19), Professional (20-23), Vet Test (24), Veteran (25+). Interaction limited to "within two win-brackets."
 
-### Player Caps Per Bracket
-- **Official:** No player cap beyond "at least two Players."
-- **Nightfall:** 4 players at Newbie, 3 at High Novice, 2 at Seasoned, strictly solo at Vet Gate and beyond.
-
 ### Vet Gate / Vet Test Milestones
 - **Official:** No concept of milestone gates at 19 or 24 wins.
 - **Nightfall:** Win 19 is a tailored solo "Vet Gate Game." Win 24 is a "Vet Test." Winning the Vet Gate and each game past it unlocks one Veteran Gift Slot per win.
@@ -30,10 +26,6 @@ Changes already documented in the Nightfall changelog are marked with
 ### Newbie Concept Malleability
 - **Official:** No rule for freely changing Contractor concepts.
 - **Nightfall:** Newbie Contractors' concepts are "malleable" and may change freely (e.g. Police PC becomes FBI Agent).
-
-### Harbinger Transportation Cost
-- **Official:** Harbingers provide free transport for Newbies.
-- **Nightfall:** At Newbie-Novice+, Harbinger transport costs half a Contractor's Mind & Source (rounded up). Failure to arrive causes Declined Harbinger Invite and possible Loose Ends.
 
 ### Mandatory Combat Obstacle Scaling
 - **Official:** No guidance on scaling combat difficulty by tier.
@@ -50,14 +42,6 @@ Changes already documented in the Nightfall changelog are marked with
 ---
 
 ## Dice & Rolling
-
-### Rolling 2 Things at Once
-- **Official:** No such rule.
-- **Nightfall:** When rolling two abilities or attributes at once, the GM may have you roll the lower of the two.
-
-### "Brawl" vs "Melee" Ability Name
-- **Official:** Uses "Melee" (e.g. "Brawn + Melee").
-- **Nightfall:** Uses "Brawl" in some contexts (e.g. stun guns, bucklers). May be a rename or a split.
 
 ### **(DOCUMENTED)** Rolling a 10 Adds a Die (instead of +2 outcome)
 ### **(DOCUMENTED)** Non-Combat Rolls Hidden From Players
@@ -138,10 +122,6 @@ Changes already documented in the Nightfall changelog are marked with
 ---
 
 ## Combat — Reactions
-
-### Desperate Defense — Protecting Others
-- **Official:** Cannot use Desperate Defense to protect someone else.
-- **Nightfall:** No such restriction stated.
 
 ### Evade — Mob Bonus Negation
 - **Official:** No interaction between Evade and Mob bonuses.
