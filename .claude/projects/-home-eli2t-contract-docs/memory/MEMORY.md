@@ -1,0 +1,1 @@
+- [Nightfall playgroup](project_nightfall.md) — nightfall-changelog.md is house rules for the Nightfall playgroup, not upstream game changes

@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(sqlite-utils schema:*)",
+      "Bash(sqlite-utils query:*)",
+      "Bash(find:*)",
+      "Bash(curl -s -L \"https://the-contract-user-files.s3.amazonaws.com/power_system_json_4de0b460-701a-4d93-9c08-0ad9c6e65005_user.json\" -o /home/eli2t/contract-docs/power_blob.json)"
+    ]
+  }
+}
