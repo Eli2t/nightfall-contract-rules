@@ -62,6 +62,28 @@ matter (exposed position, noise, time).
 - **Complete (4-5):** Full, clear picture. Things go as expected.
 - **Exceptional (6+):** Extra detail, hidden info, or an additional advantage.
 
+### Adjust Difficulty based on circumstances
+
+The default Difficulty is 6, but adjust it based on the situation. Difficulty
+can range from 4 to 9 (if it would exceed 9, keep it at 9 and reduce the dice
+pool by the overage).
+
+- **Difficulty 4-5:** Ideal conditions. The perfect tool for the job, favorable
+  environment, or significant advantage.
+- **Difficulty 6:** Standard. Normal conditions, appropriate tools.
+- **Difficulty 7:** Unfavorable. Improvised tools, poor conditions, darkness,
+  no relevant Ability.
+- **Difficulty 8-9:** Severely disadvantaged. No tools, hostile environment,
+  attempting something well beyond normal capability.
+
+Examples:
+- Picking a lock with a proper lockpick set: Difficulty 6.
+- Picking a lock with a bent paperclip: Difficulty 8.
+- Cutting a padlock with battery-operated bolt cutters: Difficulty 5.
+- Cutting a padlock with a hacksaw in the dark: Difficulty 7.
+- Stabilizing a wound with a full med kit: Difficulty equal to Injury Severity.
+- Stabilizing a wound with a torn shirt and duct tape: higher than Severity.
+
 ### Good rolls don't create reality
 
 A high Outcome means the player performed the action well — it doesn't mean the
